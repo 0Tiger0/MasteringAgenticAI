@@ -1,0 +1,201 @@
+Trail_Name,State,Difficulty,Length_Miles,Elevation_Gain,Vehicle_Requirement,Rating,Trail_Type,Estimated_Duration_Hours,Scenic_Score
+Bear Pass,Colorado,Moderate,5.9,524,Any SUV,4.0,Mountain,2.0,56
+Cliff Pass,Utah,Easy,1.8,164,Any SUV,3.7,Mud,1.2,46
+Summit Flats,Utah,Hard,5.4,1035,Locker Required,3.9,Rock Crawling,2.1,59
+Frost Flats,Tennessee,Moderate,9.4,602,Lifted Jeep,4.6,Scenic,2.7,87
+Cedar Saddle,Oregon,Moderate,12.6,2299,Lifted Jeep,4.6,Forest,3.0,49
+Juniper Crossing,Utah,Hard,3.7,1187,Locker Required,3.6,Mountain,1.7,56
+Cliff Notch,California,Easy,8.7,313,Any SUV,4.2,Scenic,2.2,76
+Coyote Gulch,Colorado,Moderate,16.0,1336,Stock Jeep,3.1,Mud,3.7,61
+Pine Trail,Montana,Easy,9.3,569,Any SUV,2.9,Mountain,1.4,97
+Copper Basin,North Carolina,Hard,9.2,3641,Lifted Jeep,4.5,Desert,4.6,69
+Thunder Hollow,North Carolina,Extreme,5.6,1590,Locker Required,4.0,Forest,4.4,44
+Thunder Saddle,Colorado,Easy,10.7,408,Any SUV,4.7,Scenic,2.5,100
+Eagle Canyon,Utah,Moderate,14.2,1840,Stock Jeep,4.0,Mountain,3.2,71
+Sand Grade,West Virginia,Extreme,2.3,1500,Locker Required,4.7,Mountain,2.8,84
+Sand Run,Colorado,Hard,13.3,1672,Lifted Jeep,3.0,Rock Crawling,5.8,30
+Broken Grade,California,Hard,9.4,2378,Lifted Jeep,4.5,Scenic,3.8,88
+Coyote Bench,Utah,Easy,8.9,134,Any SUV,4.4,Forest,1.9,69
+Red Rock Bench,Montana,Moderate,17.0,2139,Stock Jeep,4.4,Scenic,3.5,60
+Cliff Canyon,California,Moderate,15.8,595,Stock Jeep,3.9,Rock Crawling,4.0,51
+Summit Grade,Utah,Easy,3.0,175,Any SUV,4.1,Rock Crawling,1.6,52
+Lost Mesa,New Mexico,Easy,10.3,1274,Stock Jeep,4.2,Mud,2.0,45
+Cliff Grade,Utah,Extreme,7.9,2827,Locker Required,3.5,Forest,6.7,66
+Broken Spur,Nevada,Hard,4.9,3238,Lifted Jeep,3.2,Desert,1.9,52
+Black Canyon,North Carolina,Moderate,2.9,962,Lifted Jeep,4.2,Desert,1.8,64
+Lost Bench,Montana,Extreme,5.0,3787,Locker Required,3.5,Mud,4.7,40
+Stone Fork,Utah,Hard,2.7,1959,Lifted Jeep,5.0,Rock Crawling,1.1,47
+Cedar Grade,Colorado,Extreme,4.3,1467,Locker Required,4.3,Desert,3.4,67
+Coyote Canyon,Wyoming,Hard,7.9,2953,Lifted Jeep,4.4,Scenic,4.0,79
+Pine Basin,Washington,Hard,4.5,2169,Locker Required,4.2,Desert,2.0,79
+Iron Draw,North Carolina,Extreme,5.3,4884,Lifted Jeep,3.9,Forest,5.0,69
+Wild Horse Gulch,California,Moderate,3.8,1699,Stock Jeep,4.1,Forest,1.4,68
+Red Rock Flats,Colorado,Moderate,16.4,2739,Lifted Jeep,4.3,Mountain,3.5,68
+Iron Hollow,West Virginia,Hard,13.7,4300,Locker Required,4.0,Rock Crawling,5.8,62
+Cottonwood Canyon,Washington,Easy,9.7,563,Any SUV,4.0,Mountain,1.5,62
+Eagle Bench,Colorado,Moderate,5.6,1686,Stock Jeep,3.7,Rock Crawling,1.5,73
+Frost Basin,Arizona,Easy,11.7,452,Any SUV,2.9,Forest,2.2,79
+Red Rock Mesa,Georgia,Easy,1.9,422,Any SUV,4.1,Mountain,1.7,59
+Boulder Run,Utah,Hard,10.2,803,Locker Required,3.2,Forest,4.6,56
+Boulder Hollow,Colorado,Moderate,16.7,2267,Stock Jeep,5.0,Scenic,3.9,100
+Thunder Mesa,Oregon,Moderate,4.0,903,Lifted Jeep,3.5,Mud,1.7,24
+Copper Spur,Colorado,Moderate,5.4,1613,Stock Jeep,3.8,Mountain,2.1,82
+Sand Crossing,Georgia,Hard,3.2,700,Lifted Jeep,3.9,Scenic,2.3,71
+Frost Saddle,Utah,Hard,2.9,600,Locker Required,3.3,Desert,1.8,45
+Red Rock Hollow,Oregon,Moderate,9.9,878,Stock Jeep,4.8,Rock Crawling,3.0,59
+Boulder Rim,Tennessee,Easy,6.9,108,Any SUV,4.5,Scenic,2.0,71
+Juniper Spur,Wyoming,Extreme,5.1,4283,Locker Required,4.3,Rock Crawling,4.8,43
+Granite Basin,Washington,Moderate,6.4,1698,Stock Jeep,4.2,Scenic,2.3,93
+Wild Horse Draw,West Virginia,Moderate,4.2,616,Stock Jeep,4.0,Forest,1.5,60
+Pine Pass,Utah,Moderate,8.2,1860,Lifted Jeep,5.0,Rock Crawling,2.4,63
+Granite Spur,Arizona,Extreme,6.9,5300,Locker Required,4.0,Rock Crawling,5.6,39
+Stone Grade,California,Easy,5.6,659,Any SUV,3.8,Forest,2.0,41
+Rattlesnake Run,California,Easy,8.5,158,Any SUV,4.2,Mud,1.5,45
+Bear Flats,Arizona,Moderate,6.5,2025,Stock Jeep,4.3,Rock Crawling,2.4,44
+Pine Bench,Colorado,Easy,1.9,57,Any SUV,4.6,Scenic,0.7,68
+Canyon Loop,Pennsylvania,Easy,8.8,935,Any SUV,3.4,Rock Crawling,1.3,39
+Broken Saddle,Colorado,Extreme,7.5,4505,Locker Required,3.2,Forest,5.5,81
+Silver Bench,Oregon,Easy,10.4,821,Any SUV,4.9,Mountain,1.8,74
+Cedar Gulch,Nevada,Moderate,2.2,793,Stock Jeep,3.6,Mountain,1.8,74
+Coyote Notch,Washington,Moderate,6.3,1743,Stock Jeep,3.7,Scenic,2.3,79
+Pine Notch,Tennessee,Hard,4.6,1771,Locker Required,3.3,Forest,2.2,53
+Devil's Crossing,Utah,Easy,5.1,818,Any SUV,4.0,Mountain,2.0,73
+Cottonwood Crossing,Nevada,Hard,10.0,3250,Lifted Jeep,4.1,Desert,3.8,57
+Thunder Basin,Wyoming,Moderate,10.9,1149,Lifted Jeep,3.6,Rock Crawling,2.8,49
+Juniper Fork,Oregon,Easy,2.8,421,Any SUV,4.1,Mountain,1.1,80
+Ghost Basin,Nevada,Extreme,7.9,5300,Lifted Jeep,3.7,Mountain,6.4,78
+Pine Spur,Colorado,Easy,8.8,209,Stock Jeep,3.0,Mountain,1.9,68
+Boulder Ridge,Utah,Moderate,6.0,1808,Any SUV,4.5,Forest,2.0,73
+Sand Rim,Tennessee,Easy,2.4,208,Any SUV,3.4,Mountain,1.3,77
+Timber Run,Michigan,Moderate,15.8,3000,Stock Jeep,3.5,Mountain,4.0,58
+Granite Ledge,Colorado,Moderate,4.8,383,Any SUV,3.4,Desert,1.5,63
+Lost Hollow,Oregon,Hard,1.9,939,Lifted Jeep,4.2,Rock Crawling,1.9,40
+Broken Ledge,Utah,Easy,11.0,1141,Any SUV,4.2,Desert,2.4,71
+Silver Notch,Nevada,Moderate,13.2,2788,Stock Jeep,3.8,Mountain,2.7,71
+Coyote Fork,Colorado,Moderate,17.4,2958,Stock Jeep,5.0,Desert,4.2,52
+Devil's Spur,Washington,Easy,6.9,500,Any SUV,4.5,Rock Crawling,2.0,57
+Bear Draw,Arizona,Moderate,3.7,487,Stock Jeep,3.5,Scenic,1.4,78
+Silver Ridge,Utah,Easy,11.7,619,Any SUV,4.7,Forest,2.2,67
+Cottonwood Spur,Arizona,Easy,8.1,887,Any SUV,2.9,Rock Crawling,1.7,41
+Canyon Canyon,Oklahoma,Easy,9.9,930,Any SUV,4.5,Mud,1.6,53
+Granite Draw,Colorado,Moderate,10.0,1920,Stock Jeep,3.9,Desert,3.3,84
+Buffalo Rim,California,Moderate,10.1,2288,Lifted Jeep,3.9,Mud,2.6,70
+Hidden Notch,Colorado,Moderate,6.8,1383,Lifted Jeep,3.9,Scenic,2.1,79
+Rattlesnake Spur,Montana,Moderate,16.9,3000,Lifted Jeep,4.0,Rock Crawling,4.4,66
+Broken Notch,Tennessee,Hard,13.8,4300,Lifted Jeep,4.7,Rock Crawling,5.0,83
+Cliff Basin,West Virginia,Hard,2.3,2476,Stock Jeep,4.6,Rock Crawling,2.2,77
+Frost Spur,Oregon,Moderate,3.3,724,Stock Jeep,3.0,Scenic,1.6,68
+Sand Saddle,Colorado,Hard,4.1,2307,Lifted Jeep,4.0,Forest,2.8,70
+Ghost Crossing,Colorado,Hard,10.0,4231,Stock Jeep,4.1,Desert,4.0,52
+Coyote Draw,Montana,Moderate,4.7,387,Lifted Jeep,3.7,Desert,2.2,54
+Timber Hollow,Colorado,Moderate,16.4,2398,Any SUV,3.6,Rock Crawling,3.9,56
+Cottonwood Ledge,California,Hard,3.6,1470,Lifted Jeep,4.1,Mountain,2.1,88
+Pine Ledge,Tennessee,Easy,4.4,513,Any SUV,4.0,Rock Crawling,1.5,51
+Ghost Saddle,Utah,Hard,3.8,1003,Lifted Jeep,4.0,Mountain,2.4,51
+Juniper Hollow,New Mexico,Easy,4.7,421,Any SUV,4.0,Forest,1.1,59
+Juniper Notch,Colorado,Easy,10.7,538,Any SUV,4.0,Mud,2.6,57
+Hidden Trail,Nevada,Hard,2.8,2722,Locker Required,3.8,Forest,2.4,30
+Hidden Canyon,Colorado,Hard,2.6,1311,Locker Required,4.0,Mud,1.9,61
+Buffalo Ledge,Nevada,Hard,12.5,3326,Locker Required,4.0,Mud,5.4,54
+Cedar Flats,Colorado,Moderate,17.1,1361,Stock Jeep,4.9,Forest,3.5,83
+Silver Basin,Washington,Hard,6.4,2909,Lifted Jeep,3.8,Mud,3.0,51
+Timber Flats,Arizona,Easy,6.2,279,Any SUV,4.5,Rock Crawling,2.1,56
+Bear Notch,Arizona,Easy,11.5,1169,Any SUV,4.2,Forest,2.7,82
+Sand Gulch,Colorado,Easy,3.7,686,Any SUV,3.2,Mud,0.9,34
+Eagle Gulch,Wyoming,Hard,12.2,1500,Stock Jeep,4.0,Mountain,5.1,79
+Copper Fork,Texas,Easy,7.7,78,Any SUV,4.4,Desert,1.2,72
+Bear Spur,Nevada,Easy,2.0,548,Stock Jeep,3.5,Mud,1.7,45
+Coyote Wash,California,Hard,7.4,3654,Stock Jeep,4.6,Forest,2.8,75
+Red Rock Saddle,Montana,Moderate,8.1,1506,Any SUV,3.5,Mountain,2.7,69
+Juniper Canyon,Texas,Hard,12.3,2731,Locker Required,3.4,Scenic,4.8,88
+Cliff Gulch,Arizona,Moderate,8.0,616,Lifted Jeep,4.9,Mountain,1.8,85
+Buffalo Ridge,Wyoming,Moderate,11.0,1905,Stock Jeep,4.8,Mud,2.7,33
+Wild Horse Flats,Wyoming,Extreme,1.3,2041,Lifted Jeep,3.0,Mountain,1.5,69
+Eagle Wash,Arizona,Easy,10.0,1101,Stock Jeep,4.3,Desert,2.1,48
+Ghost Fork,Tennessee,Extreme,0.7,1245,Locker Required,4.4,Mountain,0.9,68
+Hidden Ledge,Colorado,Hard,9.2,866,Locker Required,4.3,Scenic,3.7,93
+Cedar Bench,Texas,Hard,8.8,3884,Lifted Jeep,4.0,Mud,3.2,46
+Pine Rim,Wyoming,Moderate,6.4,1657,Any SUV,3.6,Rock Crawling,2.2,57
+Thunder Notch,Colorado,Hard,13.8,1203,Lifted Jeep,4.8,Rock Crawling,5.8,52
+Devil's Mesa,Nevada,Easy,3.3,326,Any SUV,3.1,Rock Crawling,1.6,50
+Thunder Canyon,Colorado,Hard,7.0,908,Lifted Jeep,3.5,Forest,3.4,67
+Granite Hollow,Oklahoma,Moderate,14.8,2096,Lifted Jeep,4.2,Desert,4.0,60
+Copper Rim,Nevada,Moderate,15.9,2546,Any SUV,4.0,Rock Crawling,3.9,50
+Stone Gulch,Texas,Easy,9.1,1013,Stock Jeep,4.0,Mountain,1.5,78
+Frost Fork,New Mexico,Hard,13.4,3769,Lifted Jeep,3.4,Desert,5.6,52
+Copper Trail,Minnesota,Moderate,15.8,2204,Any SUV,4.5,Mountain,3.5,79
+Black Draw,California,Moderate,7.9,878,Stock Jeep,4.2,Forest,2.4,65
+Ghost Ridge,Georgia,Moderate,16.3,1738,Lifted Jeep,3.9,Scenic,3.8,70
+Stone Loop,Tennessee,Moderate,17.7,728,Stock Jeep,4.8,Mountain,4.7,80
+Red Rock Grade,Michigan,Moderate,8.5,1010,Stock Jeep,4.2,Rock Crawling,1.8,39
+Buffalo Flats,Arizona,Hard,12.1,4300,Lifted Jeep,4.3,Scenic,5.1,85
+Canyon Gulch,New Mexico,Moderate,8.3,1518,Lifted Jeep,4.0,Scenic,2.7,90
+Thunder Loop,Tennessee,Hard,14.0,4300,Stock Jeep,3.9,Scenic,4.9,66
+Wild Horse Rim,Arizona,Extreme,1.9,3768,Lifted Jeep,3.8,Rock Crawling,2.1,74
+Bear Hollow,Arizona,Easy,2.9,311,Any SUV,4.4,Mud,1.6,34
+Cliff Spur,Oregon,Moderate,11.8,2171,Stock Jeep,4.0,Rock Crawling,3.6,63
+Iron Run,Utah,Extreme,7.6,5300,Locker Required,4.1,Scenic,6.0,92
+Red Rock Ledge,Utah,Hard,1.7,1438,Lifted Jeep,4.7,Mountain,1.4,67
+Hidden Pass,Utah,Easy,11.0,265,Any SUV,4.3,Rock Crawling,2.0,53
+Timber Notch,California,Moderate,5.8,2019,Stock Jeep,5.0,Mountain,2.3,81
+Frost Trail,Utah,Hard,12.9,2997,Locker Required,4.0,Mountain,5.3,58
+Bear Crossing,Utah,Easy,7.3,807,Any SUV,4.3,Desert,1.4,69
+Cottonwood Gulch,Texas,Moderate,3.0,1448,Stock Jeep,3.3,Rock Crawling,1.5,47
+Copper Grade,Colorado,Moderate,5.8,1006,Stock Jeep,5.0,Mountain,1.3,93
+Hidden Crossing,Minnesota,Moderate,2.3,1425,Any SUV,3.6,Mud,1.6,55
+Sand Bench,New Mexico,Hard,10.6,2122,Stock Jeep,3.1,Mud,4.0,39
+Cliff Run,Oregon,Moderate,4.9,485,Stock Jeep,4.3,Scenic,1.4,80
+Hidden Ridge,Arizona,Hard,7.7,3988,Lifted Jeep,4.0,Mountain,3.0,92
+Iron Spur,Arizona,Hard,11.4,2640,Lifted Jeep,2.8,Forest,4.4,70
+Red Rock Trail,Arizona,Hard,4.5,773,Lifted Jeep,2.5,Mud,1.9,59
+Hidden Wash,Arizona,Moderate,11.6,1380,Stock Jeep,3.9,Rock Crawling,3.4,57
+Ghost Wash,Arizona,Extreme,1.1,2329,Locker Required,4.2,Forest,2.2,48
+Boulder Draw,California,Hard,1.9,2102,Lifted Jeep,3.5,Desert,1.6,69
+Juniper Loop,Arizona,Extreme,4.8,3310,Locker Required,3.8,Forest,3.5,56
+Pine Run,California,Moderate,3.9,1447,Stock Jeep,4.2,Mud,1.8,67
+Boulder Flats,North Carolina,Easy,3.3,574,Stock Jeep,4.5,Rock Crawling,1.8,28
+Copper Crossing,Montana,Hard,12.6,4300,Locker Required,4.6,Mountain,5.4,67
+Devil's Ledge,Utah,Easy,4.0,438,Any SUV,3.5,Desert,1.9,53
+Cedar Draw,Oregon,Moderate,10.4,2074,Lifted Jeep,5.0,Rock Crawling,2.9,74
+Red Rock Rim,Arizona,Hard,9.3,1425,Locker Required,3.0,Mud,3.4,55
+Lost Saddle,Utah,Easy,11.3,372,Stock Jeep,3.6,Mountain,1.6,68
+Boulder Wash,Arizona,Extreme,2.8,2635,Locker Required,4.8,Scenic,2.3,100
+Lost Fork,Wyoming,Hard,1.5,2195,Stock Jeep,4.8,Mud,1.0,47
+Black Ledge,New Mexico,Moderate,16.2,2004,Stock Jeep,3.9,Rock Crawling,4.2,63
+Juniper Flats,Idaho,Moderate,9.0,1342,Any SUV,3.7,Desert,2.8,54
+Bear Ledge,Colorado,Extreme,4.4,1371,Lifted Jeep,4.4,Mountain,3.3,83
+Sand Loop,North Carolina,Extreme,2.4,3601,Lifted Jeep,3.7,Rock Crawling,2.2,67
+Broken Flats,Nevada,Moderate,16.1,1860,Any SUV,3.6,Rock Crawling,3.4,61
+Sand Mesa,Arizona,Easy,10.8,909,Any SUV,3.1,Mud,2.0,40
+Canyon Wash,California,Moderate,11.0,1197,Any SUV,3.6,Mud,2.9,56
+Copper Mesa,Colorado,Hard,6.1,3008,Lifted Jeep,4.8,Forest,2.5,61
+Buffalo Wash,Colorado,Moderate,13.4,2457,Stock Jeep,4.6,Desert,2.8,85
+Thunder Spur,California,Moderate,13.8,1187,Stock Jeep,4.3,Mud,3.6,38
+Stone Spur,Arizona,Hard,2.4,1394,Lifted Jeep,5.0,Scenic,1.8,70
+Canyon Mesa,New Mexico,Moderate,11.2,2041,Stock Jeep,4.3,Mud,3.0,66
+Copper Wash,Idaho,Easy,7.5,790,Any SUV,3.5,Forest,1.6,67
+Black Notch,West Virginia,Extreme,6.0,4605,Locker Required,2.6,Scenic,4.8,57
+Lost Crossing,California,Extreme,3.1,2084,Locker Required,3.9,Mud,3.2,32
+Buffalo Basin,Arizona,Moderate,14.3,2285,Stock Jeep,3.4,Mountain,3.5,69
+Thunder Trail,Wyoming,Moderate,8.1,2270,Lifted Jeep,4.9,Mud,2.1,48
+Red Rock Wash,California,Moderate,14.0,973,Lifted Jeep,3.9,Mountain,3.1,86
+Eagle Grade,Utah,Hard,9.7,2766,Lifted Jeep,4.5,Forest,4.4,71
+Timber Ridge,Utah,Extreme,7.5,5300,Locker Required,4.6,Scenic,5.6,100
+Iron Ledge,Colorado,Extreme,2.2,3091,Locker Required,5.0,Mud,2.2,61
+Frost Gulch,Colorado,Hard,8.8,4045,Lifted Jeep,3.3,Mud,3.8,51
+Rattlesnake Ledge,Nevada,Hard,11.5,2215,Locker Required,3.5,Desert,4.1,44
+Red Rock Loop,Washington,Moderate,11.8,1900,Stock Jeep,3.6,Desert,2.9,64
+Broken Pass,Nevada,Extreme,0.6,1497,Locker Required,4.0,Desert,1.4,72
+Timber Ledge,Arizona,Moderate,3.0,402,Stock Jeep,3.5,Desert,1.9,67
+Cliff Bench,Utah,Moderate,9.7,1326,Lifted Jeep,3.5,Desert,3.2,72
+Broken Canyon,Texas,Hard,10.8,4295,Stock Jeep,3.5,Scenic,3.9,83
+Cottonwood Fork,Montana,Easy,3.6,455,Any SUV,4.3,Mud,1.5,41
+Cliff Ledge,Michigan,Moderate,14.9,1658,Stock Jeep,3.8,Rock Crawling,3.5,55
+Buffalo Trail,California,Hard,10.7,3106,Stock Jeep,3.9,Forest,5.1,68
+Frost Mesa,Nevada,Extreme,3.6,3827,Locker Required,4.7,Mountain,3.1,73
+Iron Grade,Michigan,Moderate,8.0,1668,Stock Jeep,3.3,Rock Crawling,2.1,47
+Black Crossing,Colorado,Moderate,15.4,2527,Lifted Jeep,3.2,Desert,3.6,62
+Buffalo Pass,Arizona,Easy,3.5,707,Any SUV,4.7,Mountain,1.4,79
+Granite Grade,Colorado,Easy,1.9,423,Any SUV,4.8,Mud,0.9,59
+Canyon Notch,North Carolina,Easy,3.0,760,Any SUV,4.6,Forest,1.3,60
+Iron Saddle,West Virginia,Easy,7.0,475,Any SUV,3.6,Scenic,1.9,72

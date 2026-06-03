@@ -1,0 +1,40 @@
+Generate a realistic synthetic CSV dataset containing 200 off-road trails in the United States.
+
+Columns:
+
+Trail_Name
+State
+Difficulty
+Length_Miles
+Elevation_Gain
+Vehicle_Requirement
+Rating
+Trail_Type
+Estimated_Duration_Hours
+Scenic_Score
+
+Difficulty values:
+Easy
+Moderate
+Hard
+Extreme
+
+Vehicle requirements:
+Any SUV
+Stock Jeep
+Lifted Jeep
+Locker Required
+
+Trail types:
+Forest
+Desert
+Mountain
+Rock Crawling
+Mud
+Scenic
+
+Generate realistic values.
+
+Create the file directly as:
+
+data/trails.csv
